@@ -20,3 +20,10 @@ This project contains the home page of the webiste that provides the information
 
 User can download the files from the github and open those files on visual studio code and run that code onlive server.
 Then, user would be able to see the home page of the project. User can navigate through the links, where menu has dropdown navigation bar with categories of food. Then, user would see the slider below that shows various images of food that could be ordered from that website in future. User can see the special offers on the food and food categories such as indian, chinese, etc. User can also make a resrvation or ask about anu query with the help of the form.
+
+
+***Modification in the project
+
+I had added the social media icons to the footer of the page so that users or customers can visit our profiles on social media and contact us regarding any help.
+I have alreacy commited the changes to the github and installed the new modifications in the project. The updated version of the project could be found in the actions tab, where i have deployed the updated project.
+
