@@ -225,12 +225,35 @@ input[type="submit"]
 }
 footer{
 	width:100%;
+	background:#000;
+	text-align: center;
+	color: #fff;
+}
+footer h4{
+		font-size: 2.5em;
+		padding-top: 5px;
 }
 footer p{
-	background:#000;
-	color:#fff;
-	padding:15px;
+	padding:5px;
 	text-align:center;
+}
+.socialLinks{
+    width:80%;
+    margin:10px auto;
+	margin-left:20%;
+}
+.socialLinks img{
+    width:130px;
+    height:130px;
+    float:left;
+	margin:0 auto;
+	margin: 0 50px;
+    padding: 40px;
+}
+.socialLinks::after{
+	display:block;
+	content:"";
+	clear:both;
 }
 @media only screen and (max-width: 600px){
 	#heading{
